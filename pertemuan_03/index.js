@@ -39,7 +39,7 @@ function ucapkanSalam (salam){
 }
 
 //Function Expression = 
-const ucapkanSalam2 = function (salam){
+const ucapkanSalam2 = function (salam2){
     return salam2;
 }
 console.log (ucapkanSalam2("Selamat siang dari function expression"));
