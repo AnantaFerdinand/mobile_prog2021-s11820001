@@ -1,3 +1,4 @@
+//Rabu, 17 Februari 2021
 export const color = {
     black:"#000",
 };
