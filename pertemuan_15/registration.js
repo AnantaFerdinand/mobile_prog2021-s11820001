@@ -1,1 +1,1 @@
-//Ini adalah file registrasi
+//Ini adalah file registration
